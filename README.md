@@ -1,4 +1,4 @@
-![Banner]("https://github.com/user-attachments/assets/e2f508a1-e250-4a91-9317-8a433973dbd3")
+![Banner]("Grid_Dynamics_Banner.jpeg")
 <!-- <img width="1960" height="400" alt="image" src="https://github.com/user-attachments/assets/e2f508a1-e250-4a91-9317-8a433973dbd3" /> -->
 
 
