@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm A. Dutta! 👋
 
-<!--
-**adutta-cloud/adutta-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Java Full Stack Developer** passionate about building scalable web applications and cloud solutions.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on:** Reactive Microservices & Full Stack Apps
+- 🛠 **Tech Stack:** Java, Spring Boot, ReactJS, PostgreSQL, Cloud
+- ⚡ **Fun fact:** I love turning caffeine into code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <a href="https://github.com/adutta-cloud" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=adutta-cloud&show_icons=true&theme=radical" alt="adutta-cloud" />
+  </a>
+</p>
