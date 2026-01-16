@@ -7,7 +7,7 @@
 
 # Hi there, I'm A. Dutta! 👋
 
-### 🚀 Senior Java Full Stack Developer | Distributed Systems Architect
+### 🚀 Java Full Stack Developer
 
 I am a passionate software engineer with **5+ years of experience** driving technical solutions. I specialize in designing scalable microservices, optimizing complex backends, and building modern, interactive frontends.
 
