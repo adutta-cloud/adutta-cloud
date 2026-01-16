@@ -90,10 +90,10 @@ I have **5+ years** of experience driving technical solutions. Here is a snapsho
 
 <div align="center">
   <p><b>Open for technical discussions and consulting opportunities.</b></p>
-  <a href="https://linkedin.com/in/[your-linkedin-id]">
+  <a href="https://www.linkedin.com/in/anusruta-dutta/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[your-email@example.com]">
+  <a href="mailto:adutta@griddynamics.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
