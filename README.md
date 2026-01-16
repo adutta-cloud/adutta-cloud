@@ -5,7 +5,7 @@
 <br/>
 
 
-# Hi there, I'm A. Dutta! 👋
+# Hi there, I'm Anusruta Dutta! 👋
 
 ### 🚀 Java Full Stack Developer
 
