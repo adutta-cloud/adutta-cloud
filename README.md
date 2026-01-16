@@ -1,4 +1,6 @@
-![Banner]("https://www.simplyhired.ca/browse-jobs/companies/Grid-Dynamics")
+![Banner]("https://github.com/user-attachments/assets/e2f508a1-e250-4a91-9317-8a433973dbd3")
+<!-- <img width="1960" height="400" alt="image" src="https://github.com/user-attachments/assets/e2f508a1-e250-4a91-9317-8a433973dbd3" /> -->
+
 
 # Hi there, I'm A. Dutta! 👋
 
