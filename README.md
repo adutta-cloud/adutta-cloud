@@ -82,12 +82,8 @@ I have **5+ years** of experience driving technical solutions. Here is a snapsho
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/adutta-cloud">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adutta-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/adutta-cloud">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adutta-cloud&layout=compact&theme=radical&hide=html,css"/>
-  </a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adutta-cloud&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adutta-cloud&layout=compact&theme=radical&hide_border=true&hide=html,css" height="180" alt="languages graph" />
 </p>
 
 ---
