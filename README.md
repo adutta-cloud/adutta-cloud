@@ -51,13 +51,13 @@ I engineer solutions using a robust set of modern technologies, focusing on scal
 
 I have **5+ years** of experience driving technical solutions. Here is a snapshot of my journey:
 
-### **Software Development Engineer - I @ WiseTechGlobal**
+### **Software Development Engineer - I @WiseTechGlobal**
 *📅 December 2022 - November 2025*
 * **Architecture:** Designed and deployed scalable microservices architectures using **Spring Boot** and **Spring Cloud**, reducing system latency by 40%.
 * **Frontend Modernization:** Led the migration of legacy JSPs to a modern **ReactJS** SPA, improving user engagement and page load speeds.
 * **Cloud Native:** Managed CI/CD pipelines and containerized applications using **Docker** and **Cloud Platforms**.
 
-### **Application Developer @ Accenture**
+### **Application Developer @Accenture**
 *📅 December 2019 - November 2022*
 * **API Development:** Developed high-performance RESTful APIs and integrated third-party payment gateways.
 * **Optimization:** Optimized complex SQL queries in **PostgreSQL**, resulting in faster data retrieval for critical reports.
